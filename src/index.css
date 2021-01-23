@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App .survey-main-btn {
+  background-color: #af5f46;
+  width: 150px;
+  margin: 20px;
+  border: none;
+}
